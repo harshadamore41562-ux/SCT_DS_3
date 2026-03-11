@@ -26,7 +26,7 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - `bank.csv` → Dataset containing customer demographic and behavioral data  
 - `SkillCraft_Task03.py` → Python script for preprocessing, training, evaluation, and visualization  
 - `README.md` → Project documentation  
-- `Decision_Tree_Classifier_chart.png` → Output visualization of the trained decision tree  
+- `skillcraft 03 image.png` → Output visualization of the trained decision tree  
 
 ---
 
@@ -46,7 +46,7 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - **Classification Report:** Printed in console output  
 - **Decision Tree Visualization:** See below  
 
-![Decision Tree Visualization](Decision_Tree_Classifier_chart.png)
+![Decision Tree Visualization](skillcraft%2003%20image.png)
 
 ---
 
@@ -55,4 +55,5 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - Learned how to **train and evaluate a Decision Tree Classifier**.  
 - Gained experience in **visualizing model performance**.  
 - Improved confidence in presenting machine learning projects professionally on GitHub.  
+
 
