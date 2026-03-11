@@ -2,7 +2,6 @@
 
 **Skill Craft Task 03 — Decision Tree Classifier for Customer Purchase Prediction**
 
----
 
 ## Task 03: Decision Tree Classifier 
 this project is part of my Skill Cradt Data Science internship
@@ -13,7 +12,6 @@ It focuses on building a **Decision Tree Classifier** to predict whether a custo
 
 The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Machine Learning Repository.  
 
----
 
 ### 🛠️ Tools Used  
 - Python  
@@ -21,7 +19,6 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - scikit-learn  
 - matplotlib  
 
----
 
 ### 📁 Files in Repository  
 - `bank.csv` → Dataset containing customer demographic and behavioral data  
@@ -29,7 +26,6 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - `README.md` → Project documentation  
 - `decision_tree.png` → Output visualization of the trained decision tree  
 
----
 
 ### 📋 Steps Performed  
 1. Loaded dataset (`bank.csv`) using pandas.  
@@ -40,14 +36,14 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 6. Evaluated model using accuracy score and classification report.  
 7. Visualized decision tree using `plot_tree`.  
 
----
 
 ### 📊 Output & Results  
 - **Accuracy:** ~XX% (replace with your actual result)  
 - **Classification Report:** Printed in console output  
 - **Decision Tree Visualization:** See `decision_tree.png`  
 
----
+![Decision Tree Visualization](skillcraft 03 image.png)
+
 
 ### 🎯 Learning Outcome  
 - Practiced **data preprocessing** and feature engineering.  
