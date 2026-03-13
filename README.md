@@ -46,7 +46,7 @@ The dataset used is the **Bank Marketing Dataset** (`bank.csv`) from the UCI Mac
 - **Classification Report:** Printed in console output  
 - **Decision Tree Visualization:** See below  
 
-### For Example
+###    For Example
 ![Decision Tree Visualization](skillcraft%2003%20image.png)
 
 ---
